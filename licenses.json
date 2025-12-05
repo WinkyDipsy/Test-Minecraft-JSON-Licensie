@@ -26,4 +26,13 @@
     "allowed_username": "komputer_demo",
     "allowed_gpu": "NVIDIA GeForce GTX 1660 Super"
   }
+  {
+    "user": "PelangganDemo",
+    "license_key": "LIC-DEMO-GHI7811",
+    "start_date": "2025-12-05",
+    "duration_days": 30,
+    "status": "inactive",
+    "allowed_username": "komputer_demo",
+    "allowed_gpu": "NVIDIA GeForce GTX 1660 Super"
+  }
 ]
