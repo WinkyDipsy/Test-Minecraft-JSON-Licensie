@@ -1,0 +1,29 @@
+[
+  {
+    "user": "PelangganSatu",
+    "license_key": "LIC-USER1-ABC123",
+    "start_date": "2024-05-21",
+    "duration_days": 365,
+    "status": "active",
+    "allowed_username": "nama_komputer_user1",
+    "allowed_gpu": "NVIDIA GeForce RTX 3080"
+  },
+  {
+    "user": "PelangganDua",
+    "license_key": "LIC-USER2-DEF456",
+    "start_date": "2024-06-01",
+    "duration_days": 90,
+    "status": "active",
+    "allowed_username": "laptop_kantor_user2",
+    "allowed_gpu": "N/A"
+  },
+  {
+    "user": "PelangganDemo",
+    "license_key": "LIC-DEMO-GHI789",
+    "start_date": "2024-01-01",
+    "duration_days": 30,
+    "status": "inactive",
+    "allowed_username": "komputer_demo",
+    "allowed_gpu": "NVIDIA GeForce GTX 1660 Super"
+  }
+]
