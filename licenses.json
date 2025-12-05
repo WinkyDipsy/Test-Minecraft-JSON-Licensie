@@ -3,7 +3,7 @@
     "user": "PelangganSatu",
     "license_key": "LIC-USER1-ABC123",
     "start_date": "",
-    "duration_days": 365,
+    "duration_days": 30,
     "status": "active",
     "allowed_username": "nama_komputer_user1",
     "allowed_gpu": "NVIDIA GeForce RTX 3080"
