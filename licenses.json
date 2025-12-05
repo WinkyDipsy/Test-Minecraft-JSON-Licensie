@@ -2,7 +2,7 @@
   {
     "user": "PelangganSatu",
     "license_key": "LIC-USER1-ABC123",
-    "start_date": "2024-05-21",
+    "start_date": "",
     "duration_days": 365,
     "status": "active",
     "allowed_username": "nama_komputer_user1",
@@ -11,28 +11,46 @@
   {
     "user": "PelangganDua",
     "license_key": "LIC-USER2-DEF456",
-    "start_date": "2024-06-01",
+    "start_date": "",
     "duration_days": 90,
     "status": "active",
     "allowed_username": "laptop_kantor_user2",
     "allowed_gpu": "N/A"
   },
   {
-    "user": "PelangganDemo",
-    "license_key": "LIC-DEMO-GHI789",
-    "start_date": "2024-01-01",
+    "user": "PelangganTiga",
+    "license_key": "LIC-USER3-GHI789",
+    "start_date": "",
+    "duration_days": 180,
+    "status": "active",
+    "allowed_username": "DESKTOP-O4BMT88",
+    "allowed_gpu": "NVIDIA GeForce RTX 4060"
+  },
+  {
+    "user": "PelangganEmpat",
+    "license_key": "LIC-USER4-JKL012",
+    "start_date": "",
     "duration_days": 30,
-    "status": "inactive",
-    "allowed_username": "komputer_demo",
+    "status": "active",
+    "allowed_username": "PC-GAMING-01",
     "allowed_gpu": "NVIDIA GeForce GTX 1660 Super"
   },
   {
+    "user": "PelangganLima",
+    "license_key": "LIC-USER5-MNO345",
+    "start_date": "",
+    "duration_days": 730,
+    "status": "active",
+    "allowed_username": "WORKSTATION-01",
+    "allowed_gpu": "NVIDIA Quadro RTX 5000"
+  },
+  {
     "user": "PelangganDemo",
-    "license_key": "LIC-DEMO-GHI7811",
-    "start_date": "2025-12-05",
+    "license_key": "LIC-DEMO-EXPIRED",
+    "start_date": "2023-01-01",
     "duration_days": 30,
-    "status": "inactive",
+    "status": "active",
     "allowed_username": "komputer_demo",
     "allowed_gpu": "NVIDIA GeForce GTX 1660 Super"
-  },
+  }
 ]
